@@ -1,10 +1,10 @@
 <img src="banner.svg" alt="DASANMOS" width="100%"/>
 
-<h1 align="center">👨‍💻 David Santiago Mosquera · DASANMOS 📚</h1>
+<h1 align="center">David Santiago Mosquera · DASANMOS</h1>
 
 <p align="center">
-  <b>Desarrollador autodidacta · Tecnología aplicada a la educación</b><br>
-  <i>Tecnología y educación · Innovación formativa</i>
+  <b>Desarrollador autodidacta que construye tecnología para la educación pública</b><br>
+  <i>Aprendiz SENA · Técnico en Desarrollo de Software · Medellín, Colombia</i>
 </p>
 
 <p align="center">
@@ -13,66 +13,68 @@
 </p>
 
 <p align="center">
-  <a href="https://banco-escolar-david.netlify.app"><img src="https://img.shields.io/badge/demo-Banco_Escolar-2E7D32?style=flat"/></a>
-  <a href="https://sonocolemp.infinityfreeapp.com/"><img src="https://img.shields.io/badge/demo-SonoColeMP-1B5E20?style=flat"/></a>
-  <a href="https://github.com/dasanmos/plataforma-bienestar-estudiantil"><img src="https://img.shields.io/badge/code-Bienestar_Estudiantil-1565C0?style=flat"/></a>
-</p>
-
-<p align="center">
   <a href="#-sobre-mí">Sobre mí</a> ·
   <a href="#-proyecto-estrella-serena">Serena</a> ·
   <a href="#-más-proyectos">Más proyectos</a> ·
-  <a href="#-docencia-y-educación">Docencia</a> ·
-  <a href="#️-tecnologías">Tecnologías</a>
+  <a href="#-trayectoria">Trayectoria</a> ·
+  <a href="#-docencia">Docencia</a> ·
+  <a href="#-tecnologías">Tecnologías</a> ·
+  <a href="#-estadísticas">Estadísticas</a>
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Grado XI-10 · **I.E. INEM José Félix de Restrepo**, Medellín, Colombia
-Media Técnica en Programación de Software · Aprendiz SENA (Técnico en Desarrollo de Software)
+Estudio en la **I.E. INEM José Félix de Restrepo** (Media Técnica en Programación de Software) y soy aprendiz del **SENA**. Empecé a programar con un juego en Python y desde entonces aprendo por mi cuenta y lo aplico enseguida: **cada proyecto que ves aquí nació de una necesidad real de mi colegio y lo usa gente real.**
 
-Empecé a programar con un juego en Python y desde entonces no he parado de aprender por mi cuenta. Diseño, desarrollo y administro plataformas académicas que usa gente real en mi colegio: horarios, bienestar emocional, banca gamificada, podcasts y preparación para el ICFES.
-
-Mi meta es doble: **ingeniero de sistemas y docente**. Quiero combinar ambas cosas en una carrera enfocada en tecnología educativa y, a largo plazo, liderar una institución educativa pública.
+Mi meta es ser **ingeniero de sistemas y docente**, y algún día liderar una institución educativa pública.
 
 | | |
 |---|---|
-| 🔭 **Ahora mismo** | Llevando **Serena** a la socialización de etapa productiva del SENA y administrando el sistema escolar de mi curso, XI-10. |
+| 🔭 **Ahora** | Socializando **Serena** en la etapa productiva del SENA y administrando el sistema escolar de mi curso |
 | 🌱 **Aprendiendo** | `TypeScript` · `React` · `Java` · `Spring Boot` |
-| 🎯 **Ruta hacia la docencia** | Técnico en Programación de Software (SENA) → Normalista Superior / licenciatura → Ingeniería de Sistemas |
-| 🤝 **Abierto a colaborar** | Proyectos EdTech, sobre todo herramientas para instituciones públicas |
+| 🎯 **Ruta** | Técnico en Desarrollo de Software (SENA) → Normalista o licenciatura → Ingeniería de Sistemas |
+| 🤝 **Busco colaborar en** | EdTech para instituciones públicas |
 
 ---
 
 ## 🌟 Proyecto estrella: Serena
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dasanmos/serena/main/public/assets/img/logo/logo.png" alt="Logo de Serena" width="150"/>
+  <img src="https://raw.githubusercontent.com/dasanmos/serena/main/public/assets/img/logo/logo.png" alt="Logo de Serena" width="140"/>
 </p>
 
-<p align="center"><b>Plataforma web académica y de bienestar emocional para toda la institución educativa, desde grado sexto.</b><br><i>Cuerpo · Mente · Bienestar</i></p>
+<p align="center"><b>Plataforma web académica y de bienestar emocional para toda la institución, desde grado sexto.</b></p>
 
-Las apps de bienestar miden emociones, hábitos o diario **por separado**, y las plataformas académicas solo gestionan notas y matrículas. **Serena reúne las dos cosas en un solo lugar y conecta al estudiante con psicología y orientación.** Es gratuita para la institución: PHP y MySQL libres y hosting gratuito.
+Las apps de bienestar miden emociones, hábitos o diario **por separado**, y las plataformas académicas solo gestionan notas y matrículas. **Serena reúne las dos cosas y conecta al estudiante con psicología y orientación a tiempo**, con costo cero para la institución.
 
 <p align="center">
   <a href="https://serena.infinityfreeapp.com"><b>🔗 Demo en vivo</b></a> ·
-  <a href="https://github.com/dasanmos/serena"><b>💻 Código fuente</b></a> ·
+  <a href="https://github.com/dasanmos/serena"><b>💻 Código</b></a> ·
   <a href="https://github.com/dasanmos/serena/blob/main/docs/Presentacion_Serena_SENA_final.pptx"><b>📑 Presentación</b></a> ·
   <a href="https://github.com/dasanmos/serena/blob/main/docs/INSTALACION.md"><b>⚙️ Instalación</b></a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dasanmos/serena/main/public/assets/img/ayuda/est-inicio-1.jpg" alt="Inicio del estudiante" width="32%"/>
+  <img src="https://raw.githubusercontent.com/dasanmos/serena/main/public/assets/img/ayuda/est-emociones-1.jpg" alt="Registro emocional" width="32%"/>
+  <img src="https://raw.githubusercontent.com/dasanmos/serena/main/public/assets/img/ayuda/doc-seguimiento-1.jpg" alt="Seguimiento del docente" width="32%"/>
+</p>
+
+| 11 | 110 | 69 | 125 | 4 | $0 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| roles con su propio panel | tablas en la base | informes en PDF y CSV | capturas en el manual | métodos de 2FA | costo para la institución |
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **💛 Bienestar emocional**
-- Registro de emociones varias veces al día
+- Emociones varias veces al día, con color y nota
 - Sueño, hábitos y metas con rachas e insignias
 - Diario personal protegido con PIN
-- Estadísticas e informe en PDF
-- Alertas tempranas tras días de ánimo bajo
+- **Alertas tempranas** tras días de ánimo bajo
 - Chat y citas con psicología u orientación
 - Encuestas, respiración guiada y líneas de ayuda
 
@@ -84,148 +86,146 @@ Las apps de bienestar miden emociones, hábitos o diario **por separado**, y las
 - Notas, planilla de seguimiento y boletín
 - Asistencia con alerta de ausentismo
 - Horarios con detección de cruces
-- Hoja de vida y convivencia (Ley 1620)
-- Certificados con **código QR verificable**
-- Informes en PDF/CSV, SIMAT y SIMPADE
+- Hoja de vida, convivencia (Ley 1620) y cuentas de familia
+- Certificados con **código QR verificable**, SIMAT y SIMPADE
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>👥 Los 11 roles, cada uno con su propio panel</b></summary>
+<summary><b>👥 Roles y privacidad por diseño</b></summary>
 <br>
 
-`estudiante` · `acudiente` · `docente` · `psicólogo` · `orientador` · `coordinador` · `rector` · `secretaría académica` · `administrador` · `secretaría de educación` · `superadmin`
+`estudiante` · `acudiente` · `docente` · `psicólogo` · `orientador` · `coordinador` · `rector` · `secretaría académica` · `administrador` · `Secretaría de Educación` · `superadmin`
 
-Coordinación y rectoría solo ven informes **agregados**, sin datos individuales de bienestar. Cada colegio está aislado de los demás.
+- Cada persona ve solo lo que necesita: el diario es solo del estudiante, y sus emociones solo las ven psicología y orientación (el orientador, de sus grupos).
+- Coordinación, rectoría y la Secretaría de Educación ven el bienestar **solo en cifras agregadas**.
+- **Una persona, una cuenta:** quien es docente y madre, por ejemplo, entra con la misma cuenta y elige el rol. Si su documento está en varios colegios, elige la institución.
+- Cada colegio está aislado de los demás, y cada consulta a una hoja de vida queda registrada.
 
 </details>
 
 <details>
-<summary><b>🔐 Seguridad y privacidad</b></summary>
+<summary><b>🔐 Seguridad</b></summary>
 <br>
 
-- Consentimiento explícito de tratamiento de datos (**Ley 1581 de 2012**)
+- Consentimiento de tratamiento de datos (**Ley 1581 de 2012**)
 - Verificación en 2 pasos: app autenticadora, correo, WhatsApp o rostro (secretos cifrados con AES-256-GCM)
-- Sentencias preparadas (PDO), tokens CSRF y control de acceso por rol
-- 5 intentos fallidos bloquean la cuenta 15 minutos
+- Sentencias preparadas (PDO), tokens CSRF y control de acceso por rol y por estudiante
+- Límite de intentos en el inicio de sesión, el PIN y la verificación en 2 pasos
+- Enlaces de recuperación con token cifrado y de un solo uso
 - Sesiones activas visibles y bitácora de auditoría
 
 </details>
 
 <details>
-<summary><b>🤖 IA, modo demostración y más</b></summary>
+<summary><b>✨ Experiencia, IA y modo demostración</b></summary>
 <br>
 
-- Asistente **«Pregúntale a Serena»** y análisis en informes con OpenRouter (modelos gratuitos); los datos se anonimizan antes de enviarse y la IA es opcional.
+- Diseño con color por módulo y por emoción, animaciones y sonidos sintetizados (se respetan «reducir movimiento» y el alto contraste).
+- Asistente **«Pregúntale a Serena»** y análisis en informes con IA opcional; los datos se anonimizan antes de enviarse.
 - **Modo demostración:** una cuenta maestra recorre los 11 roles sobre un colegio ficticio que se restablece en un clic.
-- **Varios colegios:** capa de Secretaría de Educación con semáforo, comparativos y comunicados.
-- Centro de ayuda integrado por rol, responsive (celular, tablet y computador) y modo oscuro.
+- Centro de ayuda por rol con buscador, manual descargable y 125 capturas generadas automáticamente.
+- Responsive, modo oscuro y dictado por voz.
 
 </details>
 
-**Stack:** `PHP 8.1+` `MySQL 8` `HTML` `CSS` `JavaScript` · sin frameworks · hosting InfinityFree
-**Equipo:** David Santiago Mosquera Mosquera y Ana Sofía Ángel Moncada (aprendices SENA).
+**Stack:** `PHP 8.1+` `MySQL` `HTML` `CSS` `JavaScript` · sin frameworks · hosting InfinityFree<br>
+**Equipo:** David Santiago Mosquera Mosquera (desarrollador full stack, Product Owner y analista de requerimientos) y Ana Sofía Ángel Moncada (gestora de proyectos y diseñadora UI/UX).
+
+### 🧪 Lo que aprendí construyendo Serena
+
+| Reto | Cómo lo resolví |
+|---|---|
+| El hosting gratuito no deja usar `public/` como raíz | `index.php` que redirige y `.htaccess` que blinda `src/`, `sql/` y los `.env` |
+| El puerto SMTP está bloqueado | Correos por la API HTTPS de Brevo |
+| Datos de menores (Ley 1581) | Permisos por rol **y** por estudiante, registro de cada consulta y cifras agregadas para directivos |
+| Una docente que también es madre | Cuentas **multirol**: una sola cuenta y elige con qué rol entrar |
+| El mismo documento en dos colegios | Al iniciar sesión, Serena pregunta a qué institución entrar |
+| Verificación en 2 pasos sin librerías | TOTP propio según las RFC 6238 y 4226, con secretos cifrados con AES-256-GCM |
+| Mantener el manual al día | Script con Playwright que toma solas las 125 capturas de la ayuda |
+
+---
+
+## 🧭 Trayectoria
+
+```
+🐍  Primer juego en Python ─────────────► empecé a aprender por mi cuenta
+🗓️  Horario INEM (PWA con Firebase) ────► mi primera plataforma con usuarios reales
+🏦  Banco Escolar ──────────────────────► gamificación para enseñar finanzas
+💙  Bienestar estudiantil (Spring Boot) ─► primer acercamiento al bienestar emocional
+🎙️  SonoColeMP ─────────────────────────► trabajo en equipo
+🤖  Citaciones ICFES (Playwright) ──────► automatización para 138 compañeros
+🌟  Serena ─────────────────────────────► plataforma académica y de bienestar, 11 roles
+```
 
 ---
 
 ## 🚀 Más proyectos
 
-### 🗓️ Horario INEM XI-10 — Sistema Escolar Integral (PWA)
-
-> De horario simple a plataforma completa con roles, asistencia y comunidad.
-
-Aplicación web progresiva sobre **Firebase (Firestore + Authentication)** que administro activamente para mi curso. Nació como un horario de clases y creció hasta tener cuatro roles: administrador, profesor, monitor y estudiante.
-
-- 📅 Horario de clases y control de asistencia
-- ✅ Tarjetas de compromisos y cartelera comunitaria con encuestas anónimas
-- 🧮 Calculadoras de notas, temporizador Pomodoro y modo de presentación para TV
-- 🔔 Notificaciones push vía Cloud Functions
-- 🎨 Identidad visual propia (dorado/negro/crema, tipografía EB Garamond)
-
-`Firebase` `Firestore` `JavaScript` `PWA` `Cloud Functions`
+| Proyecto | Qué resuelve | Tecnología | Enlace |
+|---|---|---|---|
+| 🗓️ **Horario INEM XI-10** | PWA que administro para mi curso: horario, asistencia, compromisos, cartelera con encuestas anónimas, calculadora de notas, Pomodoro y notificaciones push. Cuatro roles: administrador, profesor, monitor y estudiante. | `Firebase` `JavaScript` `PWA` `Cloud Functions` | — |
+| 🎙️ **SonoColeMP** | Plataforma de podcasts del colegio, hecha en equipo con Karen Palacio, Jose Ribon e Isabela Díaz. | `PHP` `MySQL` `Python` | [Demo](https://sonocolemp.infinityfreeapp.com/) |
+| 🏦 **Banco Escolar** | Banca gamificada para enseñar economía y finanzas personales en el aula. | `JavaScript` `Firebase` | [Demo](https://banco-escolar-david.netlify.app) |
+| 💙 **Bienestar estudiantil** | Mi primer acercamiento al bienestar emocional, que después evolucionó en Serena. Backend por capas. | `Java` `Spring Boot` `Firebase` | [Código](https://github.com/dasanmos/plataforma-bienestar-estudiantil) |
+| 📊 **PreIcfes 2026** | Simulacros con motor de calificación estilo Saber 11°: hoja de respuestas, bloqueo de sesión y ponderación por área. Multirol. | `PHP` `MySQL` | — |
+| 🤖 **Citaciones ICFES** | Descargó las citaciones de **138 estudiantes** sin una sola descarga manual, resolviendo formularios JSF/PrimeFaces. | `Python` `Playwright` | — |
 
 ---
 
-### 🎙️ SonoColeMP — Plataforma de podcast escolar
+## 🎓 Docencia
 
-Plataforma local de streaming de podcasts, desarrollada en equipo con Karen Palacio, Jose Ribon e Isabela Díaz.
+No solo construyo software para el aula: también he estado al frente de ella.
 
-🔗 [Ver demo](https://sonocolemp.infinityfreeapp.com/) · `PHP` `MySQL` `Python`
-
----
-
-### 🏦 Banco Escolar
-
-> Economía y hábitos financieros, gamificados para el aula.
-
-Banca gamificada como herramienta de apoyo docente para enseñar economía y finanzas personales.
-
-🔗 [Ver demo](https://banco-escolar-david.netlify.app) · `HTML` `CSS` `JavaScript` `Firebase`
-
----
-
-### 💙 Plataforma de bienestar estudiantil
-
-Backend en **Spring Boot** con arquitectura por capas, conectado a un frontend web con Firebase. Fue el primer acercamiento al bienestar emocional que después evolucionó en Serena.
-
-🔗 [Ver código](https://github.com/dasanmos/plataforma-bienestar-estudiantil) · `Java` `Spring Boot` `Firebase` `HTML/CSS/JS`
-
----
-
-### 📊 Plataforma PreIcfes 2026
-
-Sistema multi-rol (administrador, profesor, institución, estudiante) con motor de calificación estilo ICFES Saber 11°: hoja de respuestas, bloqueo de sesión y ponderación por área evaluada.
-
-`PHP` `MySQL`
-
----
-
-### 🤖 Automatización de citaciones ICFES
-
-> 138 estudiantes, cero descargas manuales.
-
-Script en **Python + Playwright**, ejecutado en Google Colab, que descargó las citaciones del examen ICFES Saber 11° de 138 estudiantes de grado 11. Resolvió formularios JSF/PrimeFaces y restricciones de accesibilidad móvil.
-
-`Python` `Playwright` `Automatización`
-
----
-
-## 🎓 Docencia y educación
-
-No solo construyo software para el aula: también he estado en ella.
-
-- He reemplazado a profesores ausentes en mi colegio, con actividades dinámicas propias.
-- Exploro la ruta profesional para combinar **programación y docencia**.
-- Interés en legislación docente, escalafón y proyección profesional en el sector educativo colombiano.
-- Fortalezas: Matemáticas, Geometría, Economía y Política, Tecnología e Informática.
+- He reemplazado a profesores ausentes en mi colegio, con actividades propias.
+- Busco unir **programación y docencia** en una carrera de tecnología educativa.
+- Mis fuertes: Matemáticas, Geometría, Economía y Política, y Tecnología e Informática.
 
 ---
 
 ## 🛠️ Tecnologías
 
+**Uso a diario**<br>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Aprendiendo**<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-**Otras herramientas:** Netlify · GitHub · InfinityFree · Google Cloud Functions · Playwright
+**Herramientas:** GitHub · Netlify · InfinityFree · Google Cloud Functions · Playwright
+
+---
+
+## 📈 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dasanmos&show_icons=true&hide_border=true&title_color=8A6A00&icon_color=E8B923&text_color=2B2B2B&bg_color=FFFDF6&locale=es" alt="Estadísticas de GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasanmos&layout=compact&hide_border=true&title_color=8A6A00&text_color=2B2B2B&bg_color=FFFDF6&locale=es" alt="Lenguajes más usados" height="165"/>
+</p>
+
+---
 
 ## 🌱 Cómo trabajo
 
-- Aprendo por cuenta propia y lo aplico enseguida en proyectos reales.
-- Construyo pensando en personas concretas: cada proyecto nació de una necesidad real en mi colegio.
-- Me importan la seguridad y la confidencialidad, sobre todo cuando hay datos de estudiantes.
-- Prefiero entender el porqué de una solución antes de implementarla, no solo copiar código.
+- **Personas primero:** cada proyecto nació de una necesidad real en mi colegio.
+- **Datos de estudiantes con cuidado:** seguridad y confidencialidad desde el diseño, no al final.
+- **Entender antes de copiar:** busco el porqué de cada solución antes de implementarla.
+- **Documentar para otros:** guías de instalación, manual por rol y notas de cada fase, para que cualquiera pueda continuar el trabajo.
 
 ---
+
+## 📫 Hablemos
+
+¿Trabajas en un colegio público, en una Secretaría de Educación o en un proyecto EdTech? Escríbeme abriendo un *issue* en [Serena](https://github.com/dasanmos/serena/issues) o en cualquiera de mis repositorios.
 
 <p align="center"><i>Tecnología y educación · Innovación formativa</i></p>
